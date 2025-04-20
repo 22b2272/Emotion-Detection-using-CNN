@@ -1,1 +1,2 @@
 # Emotion-Detection-using-CNN
+For our ME228 course project, developed a CNN-based emotion detection model, achieving 65% training accuracy and 57% validation accuracy with data augmentation. Enhanced the model using ResNet50V2 through transfer learning, improving performance to 71% training accuracy and 68% validation accuracy. Further optimized the models by applying class weights, using the Adamax optimizer, and implementing callbacks to improve robustness and prevent overfitting.
