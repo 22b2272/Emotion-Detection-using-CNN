@@ -1,4 +1,4 @@
-# FER-2013 Facial Emotion Classification
+# Facial Emotion Classification
 
 This repository contains a reproducible image-classification pipeline for recognizing seven facial-expression categories in the FER-2013 dataset. It provides two custom convolutional neural network (CNN) experiments and a ResNet50V2 transfer-learning experiment. The project classifies images; it does not detect faces in full-scene photographs.
 
